@@ -1,31 +1,30 @@
 
 
-
-use of google font inline
-font-family: 'Poppins', sans-serif;
-
-
+REDWOODS NEWSLETTER EMAIL INFORMATION
+****************************************************
 
 The Redwoods in Yosemite website link
 https://redwoodsinyosemite.com/
+
+
+****************************************************
+REDWOODS LOGO IMAGE
+****************************************************
 
 Redwoods logo link
 https://i.ibb.co/tZGxp25/redwoods-logo.png
 
 
-FACEBOOK LINK
-https://i.ibb.co/WH26f51/facebook.png
 
-PINTEREST LINK
-https://i.ibb.co/kSpfgZj/pinterest.png
+****************************************************
+BODY IMAGES
+****************************************************
 
-YOUTUBE LINK
-https://i.ibb.co/j5JbSDc/youtube.png
+Hero Image
+https://i.ibb.co/RbdxPP1/Hero-Image.jpg
 
-INSTAGRAM LINK
-https://i.ibb.co/gWj41yn/instagram.png
-
-
+Sequoia Marvel
+https://i.ibb.co/VQQG6qb/family-around-tree.jpg
 
 Chilnualna Falls
 https://i.ibb.co/7CxN0ym/Chilnualna-Falls.jpg
@@ -34,20 +33,17 @@ Sugar Pine Railroad
 https://i.ibb.co/sWqh9pg/sugar-pine-railroad.jpg
 
 
-Image 1 Hero Image
-https://i.ibb.co/RbdxPP1/Hero-Image.jpg
 
-Image 2
-https://i.ibb.co/VQQG6qb/family-around-tree.jpg
 
+****************************************************
+FOOTER IMAGES
+****************************************************
 
 Image 3
 https://i.ibb.co/G2s0Djm/forest-mountain.jpg
 
-
 Image 4
 https://i.ibb.co/KFFVCL4/mountain-snow.jpg
-
 
 Image 5
 https://i.ibb.co/348X3yg/river-mountain.jpg
@@ -62,6 +58,22 @@ Image 8
 https://i.ibb.co/ZStVLrN/outdoor-camp-fire.jpg
 
 
+
+****************************************************
+SOCIAL MEDIA LINK IMAGES
+****************************************************
+
+FACEBOOK LINK
+https://i.ibb.co/WH26f51/facebook.png
+
+PINTEREST LINK
+https://i.ibb.co/kSpfgZj/pinterest.png
+
+YOUTUBE LINK
+https://i.ibb.co/j5JbSDc/youtube.png
+
+INSTAGRAM LINK
+https://i.ibb.co/gWj41yn/instagram.png
 
 
 
